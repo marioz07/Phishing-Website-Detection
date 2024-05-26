@@ -8,3 +8,6 @@ requests
 scikit_learn
 whois
 gunicorn
+matplotlib
+seaborn
+scikit-learn
